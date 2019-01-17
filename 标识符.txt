@@ -1,0 +1,2 @@
+https://github.com/Excellenthuner/mygit.git
+ git remote add origin git@github.com:Excellenthuner/mygit.git
